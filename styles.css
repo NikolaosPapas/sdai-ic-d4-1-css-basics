@@ -1,7 +1,26 @@
 body {
-    background-color: whitesmoke;
+    background-color: #1f1f1f;
 }
 
 p {
-    color: darkslategray;
+    color: #d6cf00;
+}
+
+h1 {
+    color: #d6cf00;
+}
+
+h2 {
+    color: #d6cf00;
+}
+
+h3 {
+    color: #d6cf00;
+}
+a {
+    color: #b15b25;
+}
+
+footer {
+    color: #b15b25
 }
